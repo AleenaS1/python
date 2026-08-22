@@ -1,0 +1,6 @@
+a = 25567
+b = 693
+print ("SUM =", a + b)
+print ("DIFFERENCE =", a - b)
+print ("PRODUCT =", a * b)
+print ("QUOTIENT =", a / b) 
